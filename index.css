@@ -1,0 +1,31 @@
+h2 {
+    color: blueviolet;
+    text-align: center;
+}
+* {
+    background-color: antiquewhite;
+}
+p {
+    color: rgba(13, 124, 9, 0.911);
+    font-size: larger;
+    width: 600px;
+    text-indent: 5mm;
+    margin: 10px;
+    padding: 5px;
+}
+.logo {
+    width: 280px;
+    height: 300px;
+}
+.logo1 {
+    width: 200px;
+    height: 300px;
+}
+div {
+    display: list-item;
+    list-style-position: inside;
+    color: darkred;
+    font-size: larger;
+    margin: 10px;
+    padding: 5px;
+}
